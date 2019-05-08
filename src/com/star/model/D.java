@@ -7,6 +7,7 @@ package com.star.model;
 public class D {
 
 	public static void main(String[] args) {
+		System.out.println("logical program");
 		
 		for(int i=3; i<=0; i--)
 		{
