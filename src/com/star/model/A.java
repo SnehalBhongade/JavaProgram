@@ -13,6 +13,7 @@ public class A {
 			{
 				System.out.print("*");
 			}
+		
 			System.out.println();
 		}
 	}

@@ -14,7 +14,7 @@ public class C {
 		{
 			for(int j=3; j>=i; j--)
 			{
-				System.out.print(" ");
+				 System.out.print(" ");
 			}
 			for(int k=0; k<=i; k++)
 			{
